@@ -1,3 +1,10 @@
+
+#carousel-button {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
+
 .row-header{
     margin:0 auto;
     padding:0;
@@ -62,3 +69,4 @@ body{
     left: 0;
     min-height: 300px;
 }
+
